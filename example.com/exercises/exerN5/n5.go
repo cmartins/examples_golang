@@ -69,11 +69,11 @@ func exe03() {
 }
 
 func main() {
-	fmt.Println("\n######## Exercise 01 ########")
+	fmt.Println("\n######## Exercício 01 ########")
 	exe01()
-	fmt.Println("\n######## Exercise 02 ########")
+	fmt.Println("\n######## Exercício 02 ########")
 	exe02()
-	fmt.Println("\n######## Exercise 03 ########")
+	fmt.Println("\n######## Exercício 03 ########")
 	exe03()
 
 }

@@ -56,16 +56,16 @@ func exer06() {
 }
 
 func main() {
-	fmt.Println("######## Exercise 01 ########")
+	fmt.Println("######## Exercicio 01 ########")
 	exer01()
-	fmt.Println("\n\n######## Exercise 02 ########")
+	fmt.Println("\n\n######## Exercicio 02 ########")
 	exer02()
-	fmt.Println("\n\n######## Exercise 03 ########")
+	fmt.Println("\n\n######## Exercicio 03 ########")
 	exer03()
-	fmt.Println("\n\n######## Exercise 04 ########")
+	fmt.Println("\n\n######## Exercicio 04 ########")
 	exer04()
-	fmt.Println("\n\n######## Exercise 05 ########")
+	fmt.Println("\n\n######## Exercicio 05 ########")
 	exer05()
-	fmt.Println("\n\n######## Exercise 06 ########")
+	fmt.Println("\n\n######## Exercicio 06 ########")
 	exer06()
 }
